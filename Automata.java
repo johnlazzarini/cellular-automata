@@ -1,8 +1,9 @@
 import java.util.Scanner;
 import java.lang.System.*;
 
+//Test edit
 
-public class automata
+public class Automata
 {
    //this was the provided main
    public static void main(String[] args)
